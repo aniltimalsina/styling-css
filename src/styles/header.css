@@ -1,0 +1,19 @@
+.logo-section {
+  width: 50px;
+  height: 50px;
+}
+
+.header-title {
+  text-align: justify;
+  text-align-last: center;
+  margin: 0;
+  font-family: "Alex Brush", cursive;
+  font-size: 50px;
+}
+
+.header-section {
+  border: 2px black solid;
+  justify-content: center;
+  box-shadow: 5px 4px;
+  background-color: darkgray;
+}

@@ -1,0 +1,52 @@
+.main-content {
+  background-color: #e6d7d2;
+  min-height: calc(100vh - 137px);
+}
+.image-box {
+  width: 450px;
+  height: 500px;
+  position: relative;
+  left: 350px;
+  top: 100px;
+}
+
+.main-image {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.content {
+  background-color: #2e282c;
+  color: #ebdde6;
+  text-align: justify;
+  width: 400px;
+  height: 500px;
+  position: absolute;
+  left: 900px;
+  bottom: 10px;
+  font-family: "Alex Brush", cursive;
+  font-weight: bolder;
+  font-size: 30px;
+  overflow: auto;
+}
+
+.small-box-1 {
+  width: 20px;
+  height: 20px;
+  border: 2px black solid;
+  background-color: #d8159a;
+  position: absolute;
+  bottom: 500px;
+  left: 350px;
+}
+
+.small-box-2 {
+  width: 20px;
+  height: 20px;
+  border: 2px black solid;
+  background-color: #d8159a;
+  position: absolute;
+  bottom: 500px;
+  left: 800px;
+}
